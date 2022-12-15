@@ -41,7 +41,7 @@ team_t team = {
     "ozzy",              /* Team name */
 
     "Ozzy Simpson",     /* First member full name */
-    "ozzy@gwu.edu",  /* First member email address */
+    "email",  /* First member email address */
 
     "",                   /* Second member full name (leave blank if none) */
     ""                    /* Second member email addr (leave blank if none) */
